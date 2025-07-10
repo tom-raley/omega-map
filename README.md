@@ -1,7 +1,6 @@
 # OmegaMap
 A decision-support tool that helps identify ideal headquarters locations based on regional access to fresh, healthy, low-fat fish.
 
-````markdown
 ## React Vite TypeScript App
 
 This is a frontend application built with [React](https://reactjs.org/), [Vite](https://vitejs.dev/), and [TypeScript](https://www.typescriptlang.org/). It connects to a separate server application for backend functionality.
